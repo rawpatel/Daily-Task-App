@@ -13,10 +13,11 @@ import com.google.android.material.snackbar.Snackbar;
 import com.skapps.android.todolist.database.AppDatabase;
 import com.skapps.android.todolist.database.TaskEntry;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.skapps.android.todolist.models.MainViewModel;
+
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

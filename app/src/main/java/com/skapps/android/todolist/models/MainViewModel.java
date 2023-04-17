@@ -1,4 +1,4 @@
-package com.skapps.android.todolist;
+package com.skapps.android.todolist.models;
 
 import android.app.Application;
 
